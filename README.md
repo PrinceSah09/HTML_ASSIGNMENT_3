@@ -1,6 +1,6 @@
 # HTML_ASSIGNMENT_3
 
-## Screen-Shot
+##  [Live Page](https://princesah09.github.io/HTML_ASSIGNMENT_3/)
 
 ## 1. Desktop View
 
